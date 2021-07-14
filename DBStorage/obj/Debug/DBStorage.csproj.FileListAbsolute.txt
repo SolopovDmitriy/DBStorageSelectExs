@@ -1,0 +1,7 @@
+D:\c#\lesson77\DBStorage\DBStorage\bin\Debug\DBStorage.exe.config
+D:\c#\lesson77\DBStorage\DBStorage\bin\Debug\DBStorage.exe
+D:\c#\lesson77\DBStorage\DBStorage\bin\Debug\DBStorage.pdb
+D:\c#\lesson77\DBStorage\DBStorage\obj\Debug\DBStorage.csprojAssemblyReference.cache
+D:\c#\lesson77\DBStorage\DBStorage\obj\Debug\DBStorage.csproj.CoreCompileInputs.cache
+D:\c#\lesson77\DBStorage\DBStorage\obj\Debug\DBStorage.exe
+D:\c#\lesson77\DBStorage\DBStorage\obj\Debug\DBStorage.pdb
